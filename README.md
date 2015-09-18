@@ -14,4 +14,5 @@ additional  include directories
 - $(OPENCV_DIR)\lib
 
 Add the following Additional Dependencies to the Linker input
-opencv_ts300d.lib;opencv_world300d.lib;
+- opencv_ts300d.lib
+- opencv_world300d.lib
