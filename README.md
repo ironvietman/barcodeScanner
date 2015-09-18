@@ -1,0 +1,2 @@
+# barcodeScanner
+C++ barcode reader
