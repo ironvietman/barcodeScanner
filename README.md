@@ -16,3 +16,8 @@ additional  include directories
 Add the following Additional Dependencies to the Linker input
 - opencv_ts300d.lib
 - opencv_world300d.lib
+
+## Known Problems
+- Can't handle warped barcodes
+- Can't handle barcodes without a start code
+- Low contract images don't work well (Bottomhat transform would probably help)   
