@@ -1,5 +1,5 @@
 # barcodeScanner
-C++ barcode reader
+Expolration in image segmintation by thresholding and mathematical morphology to create a barcode reader. 
 
 ## Requirements
 - openCV 3.0
